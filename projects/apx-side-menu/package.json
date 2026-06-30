@@ -1,6 +1,20 @@
 {
   "name": "apx-side-menu-sabbath",
-  "version": "0.0.1",
+  "version": "0.0.3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SantyCalle333/apx-workspace-santy.git"
+  },
+  "keywords": [
+    "Santiago Calle",
+    "apx",
+    "do-not-use"
+  ],
+  "license": "MIT",
+  "author": "Santiago Calle",
+  "bugs": {
+    "url": "https://github.com/SantyCalle333/apx-workspace-santy/issues"
+  },
   "peerDependencies": {
     "@angular/common": "^21.2.0",
     "@angular/core": "^21.2.0"
